@@ -12,7 +12,6 @@
 
    "theme": {
       "colors": {
-         "bookmark_text": [ 241, 243, 244 ],
          "frame": [ 49, 54, 59 ],
          "frame_inactive": [ 49, 54, 59 ],
          "frame_incognito": [ 49, 54, 59 ],
