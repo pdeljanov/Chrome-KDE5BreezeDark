@@ -14,9 +14,9 @@
       "colors": {
          "bookmark_text": [ 239, 240, 241 ],
          "frame": [ 49, 54, 59 ],
-         "frame_inactive": [ 49, 54, 59 ],
+         "frame_inactive": [ 42, 46, 50 ],
          "frame_incognito": [ 49, 54, 59 ],
-         "frame_incognito_inactive": [ 49, 54, 59 ],
+         "frame_incognito_inactive": [ 42, 46, 50 ],
          "background_tab": [ 35, 38, 41 ],
          "background_tab_inactive": [ 43, 48, 52 ],
          "background_tab_incognito": [ 35, 38, 41 ],
